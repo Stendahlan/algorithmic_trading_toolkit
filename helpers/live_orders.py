@@ -13,7 +13,7 @@ def kraken_crypto_market_buy(
     """
     This function creates and submits a BUY market order for a cryptocurrency
     trading pair on the Kraken venue. The order is denominated in quote
-    currency (notional/cash amount).
+    currency (notional/cash amount). I use it for live trading.
 
     Built to work with the Nautilus Trader framework.
     """

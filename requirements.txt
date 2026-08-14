@@ -1,0 +1,14 @@
+click==8.4.2
+fsspec==2026.2.0
+msgspec==0.21.1
+nautilus_trader==1.229.0
+numpy==2.5.0
+pandas==3.0.4
+portion==2.6.2
+pyarrow==24.0.0
+python-dateutil==2.9.0.post0
+pytz==2026.2
+six==1.17.0
+sortedcontainers==2.4.0
+tqdm==4.68.3
+uvloop==0.22.1
